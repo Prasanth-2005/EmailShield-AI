@@ -1,0 +1,18 @@
+# This repo only tracks emailshield-ai/ and extension/ — everything else in
+# this working folder (backups, ppt assets, test corpora, zips, local
+# secrets) stays out.
+/backup/
+/ppt_images/
+/rspamd-test-corpus-main/
+/rspamd-test-corpus-main.zip
+/emailshield-aiV8.zip
+/extension.zip
+/api_keys.txt
+
+# Internal dev notes / PPT source material - not part of the public repo
+/emailshield-ai/PROGRESS.md
+/emailshield-ai/PROJECT_OVERVIEW_FOR_PPT.md
+
+# OS
+.DS_Store
+Thumbs.db

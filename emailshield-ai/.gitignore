@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# ML microservice — local virtualenv + HF model cache
+ml_service/.venv/
+ml_service/__pycache__/
+**/*.pyc

@@ -1,0 +1,7 @@
+{
+  "name": "EmailShield AI",
+  "description": "Email threat detection and forensic intelligence platform analyzing raw .eml emails for phishing, social engineering, spoofing, and header anomalies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
